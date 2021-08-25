@@ -1,0 +1,3 @@
+this is ignore file in git, and why this is comming in commit file.
+
+this is change now
